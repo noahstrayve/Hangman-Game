@@ -1,0 +1,33 @@
+body {
+	background-image: url(https://naldzgraphics.net/wp-content/uploads/2012/01/1-plaid-pattern.jpg);
+	background-repeat: repeat;
+}
+
+.guessing-area {
+	width: 450px;
+	height: 450px;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 18px;
+	border-color: gainsboro;
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 100px;
+	background: cornsilk;
+
+}
+
+.main-text {
+	text-align: center;
+}
+
+.game-text {
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+
+.instruction {
+	text-align: center;
+	margin-top: 60px;
+}
